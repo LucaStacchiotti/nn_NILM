@@ -1,4 +1,4 @@
-# nn_NILM
+# Implementazione_algoritmo_NILM_bassa_latenza_con_tecniche_di_blind_source_separation
 Codice rete neurale in Pytorch per progetto esame
 
 I file "main.py", "EDNNet.py", "train.py", "validate.py", "MAE_ES.py", "saveModel.py" e "Dataset.py" sono in Pytorch e servono per definere rete e dataset, fare il training e validation e salva il migliore modello ottenuto.
